@@ -15,5 +15,10 @@ You should launch the tool at least once to adjust the settings and various fold
 
 To associate .DPHX files to this application, simply double-click on one and Windows will ask you which program you want to use. Or, right-click on a file and select "Open with..." which should do the same. Then navigate to where you extracted the files and select the executable, then make sure to select "Always" so every .DPHX files you double-click next will automatically open in the tool.
 
-For support and more information about the tool, you can visit this Discord Server. There you will also find links to tutorial videos explaining how to use it.
-Tutorial/Videos: https://discord.gg/HbKMjjbW Questions/Support: https://discord.gg/fUnUg2E58N
+For support and more information about the tool, you can visit this Discord Server.
+
+There you will also find links to tutorial videos explaining how to use it.
+
+Tutorial/Videos: https://discord.gg/ydRRJV9XUG
+
+Questions/Support: https://discord.gg/DPnFBBqdaW
