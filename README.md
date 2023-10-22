@@ -3,11 +3,7 @@ This tool's purpose is to help its users download, unpack, visualize and load MS
 
 It is a Windows forms application based on the Microsoft .NET Framework and as such, requires version 4.8 or later of that framework. You can download the .NET Framework here: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer.
 
-To download the latest release, click here: https://github.com/siglr/DPHXUnpackAndLoad/releases/latest
-
-⚠️Notice: Because the file contains executable files and is not a known file for Chrome or other browser, you may get a warning message when trying to download it. You need to click on "Continue download" to proceed.
-
-![image](https://github.com/siglr/DPHXUnpackAndLoad/assets/49131205/a042689f-01a9-43e0-8a09-ca8b51bd538a)
+To download the latest release from flightsim.to, click here: https://flightsim.to/file/62573/msfs-soaring-task-tools-dphx-unpack-load
 
 To install for the first time, simply create a folder anywhere on your computer and extract the files in that folder. After first installation, the application supports auto-update so shouldn't be a problem anymore.
 
