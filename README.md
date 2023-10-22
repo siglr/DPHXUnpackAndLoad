@@ -5,6 +5,9 @@ It is a Windows forms application based on the Microsoft .NET Framework and as s
 
 To download the latest release, click here: https://github.com/siglr/DPHXUnpackAndLoad/releases/latest
 
+⚠️Notice: Because the file contains executable files and is not a known file for Chrome or other browser, you may get a warning message when trying to download it. You need to click on "Continue download" to proceed.
+![image](https://github.com/siglr/DPHXUnpackAndLoad/assets/49131205/a042689f-01a9-43e0-8a09-ca8b51bd538a)
+
 To install for the first time, simply create a folder anywhere on your computer and extract the files in that folder. After first installation, the application supports auto-update so shouldn't be a problem anymore.
 
 You should launch the tool at least once to adjust the settings and various folders. Double-check the MSFS folders that have been detected just in case they're wrong.
