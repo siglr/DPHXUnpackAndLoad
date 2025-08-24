@@ -15,9 +15,9 @@ For support and more information about the tool, you can visit the associated Di
 
 There you will also find links to tutorial videos explaining how to use it.
 
-Tutorial/Videos: https://discord.gg/ydRRJV9XUG
+Tutorial/Videos: https://discord.gg/ydRRJV9XUG or https://discord.com/channels/1022705603489042472/1101256306834280490
 
-Questions/Support: https://discord.gg/DPnFBBqdaW
+Questions/Support: https://discord.gg/DPnFBBqdaW or https://discord.com/channels/1022705603489042472/1101255857683042466
 
 *Note: While some users report that Windows Defender is detecting threats from the main executable in this tool, they seem to be false positive as running analysis with BitDefender or Kasperky online returns zero threat at all. I've submitted the file to Microsoft Security Intelligence for an in-depth analysis and will report back with the final result, but the file right now shows "no malware detected".
 You may need to exclude the folder where you extracted the files from your anti-virus software - see below!*
