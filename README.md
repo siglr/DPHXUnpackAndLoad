@@ -19,7 +19,9 @@ Tutorial/Videos: https://discord.gg/ydRRJV9XUG or https://discord.com/channels/1
 
 Questions/Support: https://discord.gg/DPnFBBqdaW or https://discord.com/channels/1022705603489042472/1101255857683042466
 
-⚠️ Be advised! When running the **DPHX Unpack & Load** tool, if you do NOT have the **WeSimGlide DPHX Listener** running on your Windows system tray (see image), this means you need to run it manually once to get the Windows Smart Screen authorization prompt, asking you if you are sure you want to run the program. After running it once and authorizing Smart Screen, then you should be fine with normal operation.
+⚠️ Be advised! When running the **DPHX Unpack & Load** tool, if you do NOT have the **WeSimGlide DPHX Listener** running on your Windows system tray (see image), this means you need to run it manually once to get the Windows Smart Screen authorization prompt, asking you if you are sure you want to run the program. 
+The file "**WSGListener.exe**" can be found in the same folder as the tool itself "**DPHX Unpack and Load.exe**".
+After running it once and authorizing Smart Screen, then you should be fine with normal operation.
 
 *Note: While some users report that Windows Defender is detecting threats from the main executable in this tool, they seem to be false positive as running analysis with BitDefender or Kasperky online returns zero threat at all. I've submitted the file to Microsoft Security Intelligence for an in-depth analysis and will report back with the final result, but the file right now shows "no malware detected".
 You may need to exclude the folder where you extracted the files from your anti-virus software - see below!*
